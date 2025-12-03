@@ -23,8 +23,9 @@ When using this code, please always cite
 
 Wiebe et al., Linking the Sustainable Development Goals to input-output analysis: sensitivity of indicators to global input coefficients for renewable electricity production. (accepted on 2025-12-02) Economic Systems Research
 
+# Description of the code and meta data information
 
-# Calculating the SDG indicators at country level from environmental and socio-economic extensions in global MRIO databases
+## Calculating the SDG indicators at country level from environmental and socio-economic extensions in global MRIO databases
 
 The current indicator code is based on the industry classification of the OECD ICIO. Inputs into the SDG indicator calculation function in R are 
 
@@ -40,7 +41,7 @@ The function returns a list containing
 
 - A 2-dimensional matrix: countries by SDG indicators
 
-# Meta data in GVCextensions_SDGindicators.xlsx
+## Meta data in GVCextensions_SDGindicators.xlsx
 
 This excel contains some additional meta data information
 

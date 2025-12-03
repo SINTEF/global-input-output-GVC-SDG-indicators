@@ -4,17 +4,16 @@ Copyright (c) 2025, SINTEF (http://www.sintef.no). All rights reserved.
 This Source Code is subject to a dual license
 
 ## Option 1: GPL License
-This software is available under the GPL-3.0 license (or later).
+This software is available under the GPL-3.0 license.
 You may freely use, modify, and distribute this software, provided that:
 - You release the source code when redistributing it, and
 - You keep the GPL license intact.
 
 ## Option 2: Commercial License
-If you do not wish to comply with the GPL license (e.g., you want to integrate the software into proprietary software, offer it as a SaaS, or avoid releasing source code), you can obtain a commercial license.
+If you do not wish to comply with the GPL license (e.g., you want to integrate the software into proprietary software, or avoid releasing source code), you can obtain a commercial license.
 To obtain a commercial license, please contact us at: kirsten.wiebe@sintef.no.
 The commercial license allows you to:
 - Use the software in proprietary or closed-source applications,
-- Offer the software as a service (SaaS),
 - Distribute it without the obligations of the GPL.
 Contact us for pricing and licensing terms.
 

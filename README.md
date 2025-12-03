@@ -1,10 +1,10 @@
 Copyright (c) 2025, SINTEF (http://www.sintef.no). All rights reserved.
-This Source Code Form is subject to the terms of the GNU General Public License v3.0.
+This Source Code Form is subject to the terms of the GNU General Public License v3.0. Commercial use permitted against a fee, please contact the authors. 
 
 # Referencing this Code
 When using this code, please always cite
 
-Wiebe et al., Linking the Sustainable Development Goals to input-output analysis: sensitivity of indicators to GMRIO coefficients for renewable electricity production. (provisionally accepted) Economic Systems Research
+Wiebe et al., Linking the Sustainable Development Goals to input-output analysis: sensitivity of indicators to global input coefficients for renewable electricity production. (accepted on 2025-12-02) Economic Systems Research
 
 
 # Calculating the SDG indicators at country level from environmental and socio-economic extensions in global MRIO databases

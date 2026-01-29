@@ -1,26 +1,18 @@
 # License
 Copyright (c) 2025, SINTEF (http://www.sintef.no). All rights reserved.
+SINTEF and SINTEF employees who have developed this code are not liable for 
 
-This Source Code is subject to a dual license
-
-## Option 1: GPL License
+## GPL License
 This software is available under the GPL-3.0 license.
 You may freely use, modify, and distribute this software, provided that:
 - You release the source code when redistributing it, and
 - You keep the GPL license intact.
 
-## Option 2: Commercial License
-If you do not wish to comply with the GPL license (e.g., you want to integrate the software into proprietary software, or avoid releasing source code), you can obtain a commercial license.
-To obtain a commercial license, please contact us at: kirsten.wiebe@sintef.no.
-The commercial license allows you to:
-- Use the software in proprietary or closed-source applications,
-- Distribute it without the obligations of the GPL.
-Contact us for pricing and licensing terms.
-
 # Referencing this Code
 When using this code, please always cite
 
-Wiebe et al., Linking the Sustainable Development Goals to input-output analysis: sensitivity of indicators to global input coefficients for renewable electricity production. (accepted on 2025-12-02) Economic Systems Research
+Wiebe, K. S., Aponte, F. R., Bly, K., Luttikhuis, N., Simas, M. S., Arega, M. A., & Werner, A. T. (2026). Linking the sustainable development goals to input–output analysis: sensitivity of indicators to global input coefficients for renewable electricity production. Economic Systems Research, 1–26. https://doi.org/10.1080/09535314.2025.2602033
+
 
 # Description of the code and meta data information
 

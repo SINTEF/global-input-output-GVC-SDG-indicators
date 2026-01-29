@@ -1,8 +1,6 @@
-# License
 Copyright (c) 2025, SINTEF (http://www.sintef.no). All rights reserved.
 SINTEF and SINTEF employees who have developed this code are not liable for 
 
-## GPL License
 This software is available under the GPL-3.0 license.
 You may freely use, modify, and distribute this software, provided that:
 - You release the source code when redistributing it, and
